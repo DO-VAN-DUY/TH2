@@ -1,0 +1,79 @@
+#wrapper
+{
+    width: 960px;
+    margin: 0px auto;
+}
+#table1 img
+{
+    width: 850px;
+    height: 150px;
+}
+#nd1
+{
+    float: left;
+    width: 130px;
+}
+#nd1 img
+{ 
+    float: left;
+    width: 100px;
+    height: 135px;
+    margin-top: 20px;
+    margin-left: 10px;
+
+}
+ #nd2
+{
+    float: left;
+    margin-left: 15px;
+}
+#nd2_2 
+{
+   margin-top: 65px;
+}
+#nd2_3
+{
+    margin-top: 65px;
+}
+
+
+#quangcao img
+{
+    width: 302px;
+    height: 50px;
+    margin-top: 10px;
+}
+#table2 
+{
+    width: 550px;
+    height: 500px;
+    float: left;
+    margin-top: 10px;/*Nâng bên table3*/
+}
+#float-right
+{
+    height: 538px;
+    width: 306px;
+    margin-top:10px;
+    float: left;
+
+}
+#float-right li
+{
+   margin-top: 20px;
+   margin-left:50px 
+}
+#float-right p
+{
+    width:100% ;
+    line-height: 2.5em;
+    background-color: #1f56a8;
+    margin-top: 0px;
+    border:1px solid blue;
+}
+#ket
+{
+    width: 857px;
+    height: 100px;
+    margin-top:10px;
+}
